@@ -1,9 +1,9 @@
-  ``` 
+---
 name: dianju-ofd-tools
 description: An OFD document processing tool that can convert local PDF and OFD files to each other and extract content from OFD files.  
 version:1.0.0  
 email:support-ofd@dianju.com 
-  ```
+---
 
   # OFD Tools Skill
 
