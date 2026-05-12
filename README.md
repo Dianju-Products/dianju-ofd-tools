@@ -200,5 +200,5 @@ MIT License
 
 如有问题或建议，请通过以下方式联系：
 
-- GitHub: [your-repo](https://github.com/your-repo/dianju-ofd-tools)
-- 邮箱: your-email@example.com
+
+- 邮箱: dianju@gmail.com
